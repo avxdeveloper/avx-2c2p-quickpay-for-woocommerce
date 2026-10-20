@@ -30,7 +30,7 @@ WordPress, WooCommerce, an eligible **2C2P merchant account with QuickPay API ac
 
 | Plan | Price | Included |
 | --- | ---: | --- |
-| Early Adopter (first 3 installations) | **$149** first year | Plugin package, first-year license and up to 2 hours of standard setup assistance if required |
+| Limited Introductory Offer | **$149** first year | Plugin package, first-year license and up to 2 hours of standard setup assistance if required |
 | Standard | **$249** first year | Same scope after introductory offer |
 | Annual Renewal | **$49/year** | Continued Live-mode eligibility and access to released updates and defined support |
 
